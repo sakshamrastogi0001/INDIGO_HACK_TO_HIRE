@@ -1,4 +1,4 @@
-Project Summary 
+Project Summary:-
 This project aims to provide real-time flight status updates and notifications to passengers. The system displays current flight status (delays, cancellations, gate changes) and sends notifications for flight status changes.
 
 Features Real-time Updates: Display current flight status including delays, cancellations, and gate changes. Push Notifications: Send notifications for flight status changes.
